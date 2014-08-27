@@ -1,0 +1,3 @@
+{% if DISQUS_SITENAME %}
+    <a class="b-links__comment" href="{{ SITEURL }}/{{ article.url }}#disqus_thread" onClick="loadDisqus($(this), '{{ article.url }}', '{{ SITEURL }}/{{ article.url }}'); return false;">Комментарии</a>
+{% endif %}

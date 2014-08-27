@@ -1,0 +1,1 @@
+[Пример](http://sr.karpitsky.name/)
